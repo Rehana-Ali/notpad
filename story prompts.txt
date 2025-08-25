@@ -1,0 +1,150 @@
+prompt 1
+You are a professional YouTube story tale content strategist. I will provide you with links or titles of competitor YouTube story tale videos. Your task is to:
+1. Analyze the intent, themes, and storytelling elements of each provided story tale video.
+2. Identify the key factors that make these titles engaging and effective.
+3. Generate "five unique and captivating YouTube story tale video titles" that are highly related to the provided content, ensuring they are optimized for viewer interest and searchability.
+Guidelines
+Titles should be between 50-70 characters.
+Incorporate elements of suspense, mystery, or fear to attract viewers.
+Use relevant keywords that are trending in the story genre.
+Ensure originality to stand out from competitors while maintaining relevance.
+"Example Competitor Titles/Links:"
+[Insert competitor video links or titles here]
+"Your Task:"
+Provide five optimized and engaging story tale video titles based on the above competitor examples.
+
+
+
+
+
+
+prompt 2
+
+You are an expert YouTube African tale story scriptwriter with a flair for creating chilling and engaging narratives.
+ I will provide you with a YouTube African tale story  video title that I have selected from the previously generated 
+options. Your task is to: 
+1.  I want you to generate African tale story from this title. I want you to generate this story in 5 parts like firstly
+ generate the part 1 of the story of 1000 words, then proceed the further parts of same as 1000 words of each that is perfectly
+ aligned with the given title.  
+2. Craft a compelling introduction that hooks the viewer within the first 30 seconds.
+3. Build a suspenseful and coherent storyline that maintains tension throughout.
+4. Include descriptive elements that evoke vivid imagery and emotions.
+5. Conclude with a satisfying and thought-provoking ending that encourages viewer engagement.
+"Guidelines:"
+Structure the script with clear sections: Introduction, Body, and Conclusion.
+Use a narrative style suitable for voice-over narration. I need in form of proper paragraphs like don't write the words narration etc. 
+Incorporate elements typical of African tale  storytelling, such as unexpected twists, eerie settings, and psychological tension. 
+Ensure the script is original and free from plagiarism.
+Maintain a pacing that keeps the audience engaged from start to finish.
+"Selected Title:"
+[They Left Her to Die in the Forest... But She Found the Ancients] 
+"Your Task:"
+Write a 1000-word African tale story script based on the above title, following the guidelines provided.
+Every part of the story should be divided into 3 parts with the image prompt at the top of the part realated to that part.
+ and one prompt for title image as well with the name written on the image 
+
+
+
+
+They Laughed at Her Wedding Dress—Until the Truth Came Out
+
+She Married a Limping Stranger… But His Mansion Told Another Story
+
+The Village Mocked Her Poor Groom—Then His Helicopter Landed
+
+A Widow Gave a Homeless Man Shelter—Then Found Gold Under His Bed
+
+She Was Sold for 10 Cows—But the Buyer Wasn’t Who They Thought
+
+
+
+
+stor title for poor boy,
+
+
+
+"Usne Faqeer Se Dosti Ki—Phir Ek Raat Har Cheez Badal Gayi"
+
+"Jis Larke Ko Gaon Wale Chhor Chuke Thay—Woh Ek Din Wali Ban Gaya"
+
+"Usay School Ke Rastay Mein Kuch Mila—Aur Zindagi Bhar Ka Raaz Khul Gaya"
+
+"Wo Larka Jo Kabhi Bolta Nahi Tha—Ek Din Usne Aesi Baat Ki Ke Gaon Hila Diya"
+
+"Log Usay Diwana Kehte Thay—Par Jab Asliyat Saamne Aayi, Sab Kehmoosh Ho Gaye"
+
+"Ghareeb Larka Jo Har Raat Andhero Se Baat Karta Tha—Aakhir Wo Kon Tha?"
+
+"Usne Sirf Aik Purana Kaghaz Uthaya—Aur Uski Duniya Hi Badal Gayi"
+
+"Wo Masoom Larka Jisne Kabhi Kisi Ka Nuksan Nahi Kiya—Phir Bhi Uspe Qatl Ka Ilzam Laga"
+
+"Usay Har Koi Nazar Andaaz Karta Tha—Lekin Ek Din Uska Intiqam Sabko Hila Gaya"
+
+
+
+
+
+
+
+
+mujhy african tale sories create karni hy kia ap aik ghareeb larky aur aik monster ki little horroe, suspense and engaging story create kar sakty ho?
+
+
+
+Title Idea:
+“The Monster in the Mask—And the Boy Who Dared to Look”
+(Naqaab Pahnay Monster Aur Larka Jo Uski Aankhon Mein Jhank Gaya)
+
+Story Style:
+Genre: Horror, Suspense, Folklore
+
+Setting: Ghanay jungle ke paas aik chhota African gaon
+
+Tone: Mysterious, thoda dark, psychological
+
+Main Characters:
+
+Kima: Aik ghareeb larka jo chhoti si jhopri mein rehta hai
+
+The Masked Monster (Ndatu): Aik qadim dora ka monster jo sirf raat ke andheray mein aata hai aur logon ke sapnon mein dikhai deta hai
+
+
+
+
+cats cooking prompt.
+
+Camera shows Mr. Cat standing in the kitchen. He slowly chops vegetables on a wooden board. His hands move gently and carefully.
+ His face is calm and focused. Steam rises from a pot behind him. Light from the window moves softly on the counter.
+ The knife and vegetables move naturally. His thick fur reacts to each movement. Realistic cutting motion, smooth hand movement, soft body and fur physics.
+ The scene feels warm and quiet. Natural, cinematic, no cartoon style.
+
+
+imlamic children creating prompt.
+
+white outfit kurta with intricate gold embroidery around the collar and sleeves, and a white cap (topi) adorned with a small white feather or plume.
+ The background features beautiful mosque interior architecture with golden chandeliers creating a warm ambiance against turquoise-tinted windows. 
+The lighting is professional and dramatic, creating depth with the glowing chandeliers in the background while softly illuminating the baby's face.
+ The composition is centered and intimate, capturing an innocent and serene moment of religious devotion.
+ The color palettes combines whites and golds with touches of green and turquoise, creating a harmonious and peaceful atmosphere.
+ The photo has excellent depth of field, with the background slightly blurred to emphasize the subject. 
+                
+   write more prompts based on the above prompt.
+
+
+youtubetotranscript.com
+
+
+
+
+men bhi thek hun , yar men aik youtub shorts ka channel banana chahta hun jis men aik character ho aik khubsurat
+  larki ka jis ki dressing eastern aur bht decent ho jis men koi vulgarity na ho aur us aik character ke sath mujhe
+ different stories chahiye aur storise kis type ki honi chahye us ke liy men apko aik video ka link send karti hun 
+lekin us se pehly men chahti hun ke mne jis tarha ka apko larki ka character bataya hy ap mujhy us character ki aik
+ image bana ky dikha den
+
+
+
+
+
+
